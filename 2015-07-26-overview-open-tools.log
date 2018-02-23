@@ -1,0 +1,2214 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdfetex 2015.7.3)  20 AUG 2015 13:44
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**\nonstopmode \input /Users/pauloldham17inch/poldham.github.io/2015-07-26-over
+view-open-tools.md
+(/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:26:
+ You can't use `macro parameter character #' in vertical mode.
+l.26 #
+      ##General Tools
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:26:
+ You can't use `macro parameter character #' in vertical mode.
+l.26 ##
+       #General Tools
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:26:
+ You can't use `macro parameter character #' in vertical mode.
+l.26 ###
+        General Tools
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:41:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.41 ![_
+        config.yml]({{ site.baseurl }} /images/overview/google_sheets_addon....
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:42:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.42 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:47:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.47 ![_
+        config.yml]({{ site.baseurl }} /images/overview/Fusion-Tables.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:48:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.48 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:51:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.51 ![_
+        config.yml]({{ site.baseurl }} /images/overview/Fusion-Tables-Cards....
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:52:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.52 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:53:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.53 ![_
+        config.yml]({{ site.baseurl }} /images/overview/Fusion-Tables-Map.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:54:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.54 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:55:
+ You can't use `macro parameter character #' in vertical mode.
+l.55 #
+      #Cleaning Tools
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:55:
+ You can't use `macro parameter character #' in vertical mode.
+l.55 ##
+       Cleaning Tools
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:63:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.63 ![_
+        config.yml]({{ site.baseurl }} /images/openrefine/OpenRefine-downloa...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:64:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.64 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:67:
+ You can't use `macro parameter character #' in vertical mode.
+l.67 #
+      #Data Mining
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:67:
+ You can't use `macro parameter character #' in vertical mode.
+l.67 ##
+       Data Mining
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (86.27278pt too wide) in paragraph at lines 73--74
+\tenrm dat-ing a great deal of ef-fort goes in to mak-ing R ac-ces-si-ble throu
+gh [tutorials](http://www.rstudio.com/resources/training/online-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm d
+.\tenrm a
+.\tenrm t
+.\discretionary
+..\tenrm -
+.\tenrm i
+.etc.
+
+
+Overfull \hbox (90.16278pt too wide) in paragraph at lines 73--74
+\tenrm learning/) such as those on [Dat-a-Camp](https://www.datacamp.com), [we-
+bi-nars](http://www.rstudio.com/resources/webinars/),|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm l
+.\tenrm e
+.\tenrm a
+.\tenrm r
+.\tenrm n
+.etc.
+
+
+Overfull \hbox (7.07932pt too wide) in paragraph at lines 73--74
+\tenrm [R-Bloggers](http://www.r-bloggers.com) and [Stack Over-flow](http://sta
+ckoverflow.com/questions/tagged/r)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm [
+.\tenrm R
+.\tenrm -
+.\discretionary
+.\tenrm B
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:75:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.75 ![_
+        config.yml]({{ site.baseurl }} /images/overview/RStudio.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:76:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.76 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (187.57855pt too wide) in paragraph at lines 77--78
+[]\tenrm To get started with R down-load RStu-dio for your plat-form by [fol-lo
+w-ing these in-struc-tions](https://www.rstudio.com/products/rstudio/download/)
+. |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm T
+.\kern-0.83334
+.\tenrm o
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Overfull \hbox (18.35591pt too wide) in paragraph at lines 79--80
+\tenrm The free John Hop-kins Uni-ver-sity [R Pro-gram-ming Course on Cours-era
+](https://www.coursera.org/course/rprog)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm T
+.\tenrm h
+.\tenrm e
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm f
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:87:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.87 ![_
+        config.yml]({{ site.baseurl }} /images/overview/RapidMiner.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:88:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.88 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:93:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.93 ![_
+        config.yml]({{ site.baseurl }} /images/overview/KNIME.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:94:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.94 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (61.635pt too wide) in paragraph at lines 95--96
+[]\tenrm Other data min-ing tools (such as [WEKA](http://www.cs.waikato.ac.nz/m
+l/weka/) and [NLTK](http://www.nltk.org)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm O
+.\tenrm t
+.\tenrm h
+.\tenrm e
+.etc.
+
+
+Overfull \hbox (169.8481pt too wide) in paragraph at lines 95--96
+\tenrm in Python are cov-ered be-low). If you would like to ex-plore other data
+ min-ing soft-ware try this [article](http://www.predictiveanalyticstoday.com/t
+op-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm i
+.\tenrm n
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm P
+.\tenrm y
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:97:
+ You can't use `macro parameter character #' in vertical mode.
+l.97 #
+      #Data Visualisation
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:97:
+ You can't use `macro parameter character #' in vertical mode.
+l.97 ##
+       Data Visualisation
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:99:
+ Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.99 ...tion](http://en.wikipedia.org/wiki/Edward_
+                                                  Tufte). His [critique of t...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:100
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.100 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (348.2112pt too wide) in paragraph at lines 99--100
+\tenrm at Yale Uni-ver-sity and his fa-mous book [The Vi-sual Dis-play of Quan-
+ti-ta-tive Information](http://en.wikipedia.org/wiki/Edward$[]\teni ufte\tenrm 
+)\teni :His\tenrm [\teni critiqueoftheusesandabusesofPowerpoint\tenrm ](\teni h
+ttp \tenrm :|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm a
+.\tenrm t
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm Y
+.\kern-0.83334
+.etc.
+
+
+Overfull \hbox (126.09341pt too wide) in paragraph at lines 99--100
+\teni ==users:ha:uth:gr=tgd=pt\tenrm 0501\teni =\tenrm 09\teni =Tufte:pdf\tenrm
+ )\teni isalsoentertainingandinsightful:TheworkofStephenFew; suchas\tenrm [\ten
+i ShowMetheNumbers \tenrm :|
+
+\hbox(7.5+2.5)x469.75499
+.\teni =
+.\teni =
+.\teni u
+.\teni s
+.\teni e
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:101
+: You can't use `macro parameter character #' in horizontal mode.
+l.101 ...s [Resonate](http://resonate.duarte.com/#
+                                                  !page0) for ideas on polis...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:101
+: You can't use `macro parameter character #' in horizontal mode.
+l.101 ...t [Resonate](http://resonate.duarte.com/#
+                                                  !page0) contains very usef...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (115.65356pt too wide) in paragraph at lines 101--102
+\tenrm ideas on pol-ish-ing up pre-sen-ta-tions and sto-ry-telling. The style m
+ay not suit ev-ery-one but [Res-onate](http://resonate.duarte.com/!page0)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm i
+.\tenrm d
+.\tenrm e
+.\tenrm a
+.\tenrm s
+.etc.
+
+[2]
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:114
+: You can't use `macro parameter character #' in horizontal mode.
+l.114 ...google-charts.readthedocs.org/en/latest/#
+                                                  )
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (156.6201pt too wide) in paragraph at lines 111--115
+\tenrm Charts in R then see the `Google-Vis` pack-age and its ex-am-ples [here]
+(http://cran.r-project.org/web/packages/googleVis/vignettes/googleVis.pdf)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm C
+.\tenrm h
+.\tenrm a
+.\tenrm r
+.\tenrm t
+.etc.
+
+
+Overfull \hbox (32.64874pt too wide) in paragraph at lines 111--115
+\tenrm - For an overview us-ing Google Charts with Python see the [google-chart
+wrapper](https://code.google.com/p/google-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm -
+.\discretionary
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm F
+.\kern-0.83334
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:116
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.116 ![_
+         config.yml]({{ site.baseurl }} /images/overview/google_sheets_addon...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:117
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.117 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:122
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.122 ![_
+         config.yml]({{ site.baseurl }} /images/tableau/profile_dashtabs.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:123
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.123 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:124
+: You can't use `macro parameter character #' in horizontal mode.
+l.124 ...wipo.open.source.patent.analytics.manual#
+                                                  !/).
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (82.74619pt too wide) in paragraph at lines 124--125
+[]\tenrm The work-book can be viewed on-line [here](https://public.tableau.com/
+profile/wipo.open.source.patent.analytics.manual!/). |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm T
+.\tenrm h
+.\tenrm e
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:130
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.130 ...rk](https://en.wikipedia.org/wiki/Leland_
+                                                  Wilkinson), developers at ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:131
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.131 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (684.51736pt too wide) in paragraph at lines 130--131
+\tenrm work](https://en.wikipedia.org/wiki/Leland$[]\teni ilkinson\tenrm )\teni
+ ; developersatRStudioandothershavecreatedpackagesthatprovideveryusefulwaystovi
+sualiseandmapdata:Thelinksbelowwilltakeyoutothedocumentationforsomeofthemostpop
+ulardatavisualisationpackages:$ |
+
+\hbox(7.5+2.5)x469.75499
+.\tenrm w
+.\kern-0.27779
+.\tenrm o
+.\tenrm r
+.\tenrm k
+.etc.
+
+
+Overfull \hbox (169.95016pt too wide) in paragraph at lines 132--136
+[]\tenrm 1. [ggplot2](http://cran.r-project.org/web/packages/ggplot2/index.html
+) 2. [ggvis](http://cran.r-project.org/web/packages/ggvis/index.html)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm 1
+.\tenrm .
+.\glue 4.44444 plus 4.99997 minus 0.37036
+.\tenrm [
+.etc.
+
+
+Overfull \hbox (182.728pt too wide) in paragraph at lines 132--136
+\tenrm 3. [ggmap](http://cran.r-project.org/web/packages/ggmap/index.html) 4. [
+googleVis](http://cran.r-project.org/web/packages/googleVis/index.html) |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm 3
+.\tenrm .
+.\glue 4.44444 plus 4.99997 minus 0.37036
+.\tenrm [
+.\tenrm g
+.etc.
+
+
+Overfull \hbox (19.88486pt too wide) in paragraph at lines 137--138
+\tenrm ti-cles on `gg-plot2` on [R-Bloggers](http://www.r-bloggers.com/search/g
+gplot2) and here for [ggvis](http://www.r-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm t
+.\tenrm i
+.\discretionary
+..\tenrm -
+.\tenrm c
+.\tenrm l
+.etc.
+
+
+Overfull \hbox (38.12553pt too wide) in paragraph at lines 137--138
+\tenrm bloggers.com/?s=ggvis). Dat-a-camp of-fers a free tu-to-rial on the use 
+of `ggvis` that can be ac-cessed [here](http://www.r-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm b
+.\tenrm l
+.\tenrm o
+.\tenrm g
+.\tenrm g
+.etc.
+
+
+Overfull \hbox (0.48668pt too wide) in paragraph at lines 137--138
+\tenrm bloggers.com/ggvis-tutorial-become-a-data-visualization-expert-with-rstu
+dio/). For a wider overview of some|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm b
+.\tenrm l
+.\tenrm o
+.\tenrm g
+.\tenrm g
+.etc.
+
+[3]
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:139
+: You can't use `macro parameter character #' in vertical mode.
+l.139 #
+       ##[Shiny](http://shiny.rstudio.com)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:139
+: You can't use `macro parameter character #' in vertical mode.
+l.139 ##
+        #[Shiny](http://shiny.rstudio.com)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:139
+: You can't use `macro parameter character #' in vertical mode.
+l.139 ###
+         [Shiny](http://shiny.rstudio.com)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:143
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.143 ![_
+         config.yml]({{ site.baseurl }} /images/overview/Shiny.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:144
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.144 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:149
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.149 ![_
+         config.yml]({{ site.baseurl }} /images/overview/Radiant.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:150
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.150 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (6.32912pt too wide) in paragraph at lines 155--156
+[]\tenrm You need to Reg-is-ter for a free ac-count to re-ally un-der-stand wha
+t this is about, [try this page](http://www-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm Y
+.\kern-0.83334
+.\tenrm o
+.\tenrm u
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:157
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.157 ![_
+         config.yml]({{ site.baseurl }} /images/overview/manyeyes.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:158
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.158 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+
+Overfull \hbox (53.91286pt too wide) in paragraph at lines 161--170
+[]\tenrm - [Tulip](http://tulip.labri.fr/TulipDrupal/): data vi-su-al-iza-tion 
+frame-work in C++ - [Sig-maJS](http://sigmajs.org/):|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm -
+.\discretionary
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm [
+.etc.
+
+
+Overfull \hbox (65.99619pt too wide) in paragraph at lines 171--172
+[]\tenrm For ad-di-tional vi-su-al-i-sa-tions see [vi-su-al-iz-ing.org](http://
+www.visualizing.org/) and [Open Data Tools](http://opendata-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm F
+.\kern-0.83334
+.\tenrm o
+.\tenrm r
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:173
+: You can't use `macro parameter character #' in vertical mode.
+l.173 #
+       ##Network Visualization
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:173
+: You can't use `macro parameter character #' in vertical mode.
+l.173 ##
+        #Network Visualization
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:173
+: You can't use `macro parameter character #' in vertical mode.
+l.173 ###
+         Network Visualization
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (95.77411pt too wide) in paragraph at lines 177--178
+\tenrm am-ple of this type of work for syn-thetic bi-ol-ogy is [here](http://jo
+urnals.plos.org/plosone/article?id=10.1371/journal.pone.0034368)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm a
+.\tenrm m
+.\discretionary
+..\tenrm -
+.\tenrm p
+.\tenrm l
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:179
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.179 ![_
+         config.yml]({{ site.baseurl }} /images/overview/synbio.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:180
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.180 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:181
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.181 ....wipo.int/patentscope/en/programs/patent_
+                                                  landscapes/reports/animal_...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:182
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.182 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (272.89969pt too wide) in paragraph at lines 181--182
+\tenrm net-work anal-y-sis to iden-tify the [patent land-scape for an-i-mal ge-
+netic resources](http://www.wipo.int/patentscope/en/programs/patent$[]\teni and
+scapes=reports=animal[]r:html\tenrm )\teni :$ |
+
+\hbox(7.5+2.86108)x469.75499, glue set - 1.0
+.\tenrm n
+.\tenrm e
+.\discretionary replacing 2
+..\tenrm t
+..\tenrm -
+.\tenrm t
+.\kern-0.27779
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:185
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.185 ![_
+         config.yml]({{ site.baseurl }} /images/overview/animals.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:186
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.186 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[4]
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:189
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.189 ![_
+         config.yml]({{ site.baseurl }} /images/overview/breeds_cluster.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:190
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.190 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:195
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.195 ![_
+         config.yml]({{ site.baseurl }} /images/overview/Gephi.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:196
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.196 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (10.93924pt too wide) in paragraph at lines 199--200
+[]\tenrm To cre-ate `.gexf` net-work files in R try the [gexf](http://cran.r-pr
+oject.org/web/packages/rgexf/index.html)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm T
+.\kern-0.83334
+.\tenrm o
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:205
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.205 ![_
+         config.yml]({{ site.baseurl }} /images/overview/NodeXL.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:206
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.206 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:207
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.207 ...Cytoscape](http://www.cytoscape.org/what_
+                                                  is_cytoscape.html)***
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:208
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.208 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:209
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.209 [Cytoscape](http://www.cytoscape.org/what_
+                                                is_cytoscape.html) is anothe...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:210
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.210 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (797.78561pt too wide) in paragraph at lines 209--210
+[]\tenrm [Cytoscape](http://www.cytoscape.org/what$[]\teni s[]ytoscape:html\ten
+rm )\teni isanothernetworkvisualisationprogramme:Itwasoriginallydesignedforthev
+isualisationofbiologicalnetworksandinteractionsbut; aswithsomanyotherbioinforma
+ticstools; canbeappliedtoawiderrangeofvisualisationtasks:$ |
+
+\hbox(7.5+2.5)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm C
+.\tenrm y
+.\tenrm t
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:211
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.211 ![_
+         config.yml]({{ site.baseurl }} /images/overview/cytoscape.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:212
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.212 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:219
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.219 ![_
+         config.yml]({{ site.baseurl }} /images/overview/Pajek.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:220
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.220 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:227
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.227 ![_
+         config.yml]({{ site.baseurl }} /images/overview/VOSviewer.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:228
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.228 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:233
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.233 ![_
+         config.yml]({{ site.baseurl }} /images/overview/HivePlots.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:234
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.234 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (117.41287pt too wide) in paragraph at lines 235--236
+[]\tenrm Designed for large net-works there are pack-ages for Hive plots in Pyt
+hon through [pyve-plot](https://pypi.python.org/pypi/pyveplot/)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm D
+.\tenrm e
+.\tenrm s
+.\tenrm i
+.etc.
+
+
+Overfull \hbox (11.04123pt too wide) in paragraph at lines 235--236
+\tenrm and [hive-plot](https://github.com/ericmjl/hiveplot). For R there is [Hi
+veR](http://academic.depauw.edu/ han-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm a
+.\tenrm n
+.\tenrm d
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm [
+.etc.
+
+
+Overfull \hbox (102.43951pt too wide) in paragraph at lines 235--236
+\tenrm son/HiveR/HiveR.html) with doc-u-men-ta-tion avail-able on CRAN [here](h
+ttp://cran.r-project.org/web/packages/HiveR/index.html). |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm s
+.\tenrm o
+.\tenrm n
+.\tenrm /
+.\tenrm H
+.etc.
+
+
+Overfull \hbox (8.96822pt too wide) in paragraph at lines 239--240
+[]\tenrm For other sources of net-work vi-su-al-i-sa-tion see [FlowingData](htt
+p://opendata-tools.org/en/visualization/).|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm F
+.\kern-0.83334
+.\tenrm o
+.\tenrm r
+.etc.
+
+
+Overfull \hbox (168.05203pt too wide) in paragraph at lines 239--240
+\tenrm Also try [Vi-sual Com-plex-ity](http://www.visualcomplexity.com/vc/) and
+ [vi-su-al-is-ing data](http://www.visualisingdata.com/index.php/resources/)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm A
+.\tenrm l
+.\tenrm s
+.\tenrm o
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+[5]
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:241
+: You can't use `macro parameter character #' in vertical mode.
+l.241 #
+       #Infographics
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:241
+: You can't use `macro parameter character #' in vertical mode.
+l.241 ##
+        Infographics
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:243
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.243 ...sites/www/patentscope/en/programs/patent_
+                                                  landscapes/reports/documen...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:244
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.244 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (430.14682pt too wide) in paragraph at lines 243--244
+\tenrm Land-scape Report](http://www.wipo.int/export/sites/www/patentscope/en/p
+rograms/patent$[]\teni andscapes=reports=documents=animal[]enetics[]nfographic:
+pdf\tenrm )\teni and\tenrm [\teni AssistiveDevicesandTechnologies\tenrm ](\teni
+ http \tenrm :|
+
+\hbox(7.5+2.86108)x469.75499, glue set - 1.0
+.\tenrm L
+.\tenrm a
+.\tenrm n
+.\tenrm d
+.\discretionary
+..\tenrm -
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:251
+: You can't use `macro parameter character #' in horizontal mode.
+l.251 3. [Easel.ly](http://www.easel.ly/create/#
+                                                )
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (13.4776pt too wide) in paragraph at lines 247--252
+[]\tenrm 1. [Pik-tochart.com](http://piktochart.com) 2. [Canva.com](https://www
+.canva.com/create/infographics/)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm 1
+.\tenrm .
+.\glue 4.44444 plus 4.99997 minus 0.37036
+.\tenrm [
+.etc.
+
+
+Overfull \hbox (41.32951pt too wide) in paragraph at lines 247--252
+\tenrm 3. [In-fogr.am](https://infogr.am/pricing) 4. [Visme](http://www.visme.c
+o) 3. [Easel.ly](http://www.easel.ly/create/) |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm 3
+.\tenrm .
+.\glue 4.44444 plus 4.99997 minus 0.37036
+.\tenrm [
+.\tenrm I
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:255
+: You can't use `macro parameter character #' in vertical mode.
+l.255 #
+       #Geographical Mapping
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:255
+: You can't use `macro parameter character #' in vertical mode.
+l.255 ##
+        Geographical Mapping
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:257
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.257 ... Earth](https://www.google.co.uk/intl/en_
+                                                  uk/earth/) we think it is ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:258
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.258 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (1.3224pt too wide) in paragraph at lines 257--258
+\tenrm Earth](https://www.google.co.uk/intl/en$[]\teni k=earth=\tenrm )\teni we
+thinkitiswellworthtakingacloselookatotherservices:$ |
+
+\hbox(7.5+2.5)x469.75499
+.\tenrm E
+.\tenrm a
+.\tenrm r
+.\tenrm t
+.\tenrm h
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:259
+: You can't use `macro parameter character #' in horizontal mode.
+l.259 ...StreetMap](http://www.openstreetmap.org/#
+                                                  map=5/51.500/-0.100)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:263
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.263 ![_
+         config.yml]({{ site.baseurl }} /images/overview/OpenStreetMap.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:264
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.264 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:269
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.269 ![_
+         config.yml]({{ site.baseurl }} /images/overview/Leaflet.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:270
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.270 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (71.09799pt too wide) in paragraph at lines 271--272
+\tenrm able at [R-bloggers](http://www.r-bloggers.com/?s=leaflet). For Python u
+sers try `folium` [here](https://github.com/python-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm a
+.\tenrm b
+.\tenrm l
+.\tenrm e
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:275
+: You can't use `macro parameter character #' in horizontal mode.
+l.275 ...tps://public.tableau.com/profile/poldham#
+                                                  !/vizhome/SyntheticBiology...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (71.46855pt too wide) in paragraph at lines 275--276
+\tenrm [here](https://public.tableau.com/profile/poldham!/vizhome/SyntheticBiol
+ogyScientificLandscape/SyntheticBiologyTrends)|
+
+\hbox(7.5+2.5)x469.75499
+.\tenrm [
+.\tenrm h
+.\tenrm e
+.\tenrm r
+.\tenrm e
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:279
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.279 ![_
+         config.yml]({{ site.baseurl }} /images/overview/tableaumap.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:280
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.280 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:281
+: You can't use `macro parameter character #' in horizontal mode.
+l.281 ...ttp://public.tableau.com/profile/poldham#
+                                                  !/vizhome/SyntheticBiology...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (258.2466pt too wide) in paragraph at lines 281--282
+[]\tenrm To view the in-ter-ac-tive ver-sion try this [page](http://public.tabl
+eau.com/profile/poldham!/vizhome/SyntheticBiologyScientificLandscape/SyntheticB
+iologyTrends).|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm T
+.\kern-0.83334
+.\tenrm o
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:287
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.287 ![_
+         config.yml]({{ site.baseurl }} /images/overview/QGIS.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:288
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.288 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:289
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.289 ...w.researchgate.net/publication/273139809_
+                                                  Valuing_the_Deep_Marine_Ge...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:290
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.290 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (694.73087pt too wide) in paragraph at lines 289--290
+\tenrm the Deep](https://www.researchgate.net/publication/273139809$[]\teni alu
+ing[]he[]eep[]arine[]enetic[]esources[]n[]reas[]eyond[]ational[]urisdiction\ten
+rm ))\teni :ThisisalowresolutionQGISmapofscientificresearchlocationsintheoceans
+basedontextminingofthescientificliterature:$ |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm t
+.\tenrm h
+.\tenrm e
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm D
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:291
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.291 ![_
+         config.yml]({{ site.baseurl }} /images/overview/valuing1.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:292
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.292 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[6]
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:297
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.297 ![_
+         config.yml]({{ site.baseurl }} /images/overview/GeoNames.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:298
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.298 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:303
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.303 ![_
+         config.yml]({{ site.baseurl }} /images/overview/icharts.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:304
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.304 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:309
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.309 ![_
+         config.yml]({{ site.baseurl }} /images/overview/OpenLayer.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:310
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.310 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:315
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.315 ![_
+         config.yml]({{ site.baseurl }} /images/overview/CartoDB.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:316
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.316 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:321
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.321 ![_
+         config.yml]({{ site.baseurl }} /images/overview/D3.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:322
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.322 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:327
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.327 ![_
+         config.yml]({{ site.baseurl }} /images/overview/highcharts.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:328
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.328 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:333
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.333 ![_
+         config.yml]({{ site.baseurl }} /images/overview/Datawrapper.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:334
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.334 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:339
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.339 ![_
+         config.yml]({{ site.baseurl }} /images/overview/Plotly.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:340
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.340 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:341
+: You can't use `macro parameter character #' in vertical mode.
+l.341 #
+       # Text Mining
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:341
+: You can't use `macro parameter character #' in vertical mode.
+l.341 ##
+         Text Mining
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:347
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.347 ![_
+         config.yml]({{ site.baseurl }} /images/overview/Jigsaw.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:348
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.348 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:353
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.353 ![_
+         config.yml]({{ site.baseurl }} /images/overview/Weka.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:354
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.354 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (18.32924pt too wide) in paragraph at lines 359--360
+[]\tenrm [Google Word Trees](https://developers.google.com/chart/interactive/do
+cs/gallery/wordtree) on the Google|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm G
+.\tenrm o
+.\kern0.27779
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:361
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.361 ![_
+         config.yml]({{ site.baseurl }} /images/overview/Word-Trees.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:362
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.362 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:365
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.365 ![_
+         config.yml]({{ site.baseurl }} /images/overview/Word-Tree-Davies.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:366
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.366 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:369
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.369 ![_
+         config.yml]({{ site.baseurl }} /images/overview/KHCoder.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:370
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.370 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (6.44041pt too wide) in paragraph at lines 373--374
+\tenrm duc-tion from the pack-age de-vel-op-ers see [here](http://cran.r-projec
+t.org/web/packages/tm/vignettes/tm.pdf).|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm d
+.\tenrm u
+.\tenrm c
+.\discretionary
+..\tenrm -
+.\tenrm t
+.etc.
+
+
+Overfull \hbox (84.5506pt too wide) in paragraph at lines 373--374
+\tenrm A num-ber of very use-fyl tu-to-ri-als are also avail-able for text min-
+ing on [R-bloggers](http://www.r-bloggers.com/?s=text+mining).|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm A
+.\glue 3.33333 plus 1.66498 minus 1.11221
+.\tenrm n
+.\kern-0.27779
+.\tenrm u
+.etc.
+
+[7]
+Overfull \hbox (187.45946pt too wide) in paragraph at lines 383--384
+\tenrm cov-ers al-most all ma-jor needs. The ac-com-pa-ny-ing book [Nat-u-ral L
+an-guage Pro-cess-ing with Python](http://shop.oreilly.com/product/978059651649
+9.do)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm c
+.\tenrm o
+.\kern-0.27779
+.\discretionary replacing 2
+..\tenrm v
+..\tenrm -
+.\tenrm v
+.etc.
+
+
+Overfull \hbox (32.25531pt too wide) in paragraph at lines 383--384
+\tenrm may also be worth con-sid-er-ing. 2. The [Python Textmin-ing Pack-age](h
+ttp://www.christianpeccei.com/textmining/).|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm m
+.\tenrm a
+.\kern-0.27779
+.\tenrm y
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:385
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.385 ![_
+         config.yml]({{ site.baseurl }} /images/overview/ntlk.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:386
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.386 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (4.05159pt too wide) in paragraph at lines 387--388
+[]\tenrm This [de-tailed tutorial](http://textminingonline.com/dive-into-nltk-p
+art-i-getting-started-with-nltk) may|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm T
+.\tenrm h
+.\tenrm i
+.\tenrm s
+.etc.
+
+
+Overfull \hbox (7.66264pt too wide) in paragraph at lines 391--392
+\tenrm soft-ware tools](http://www.predictiveanalyticstoday.com/top-free-softwa
+re-for-text-analysis-text-mining-text-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm s
+.\tenrm o
+.\tenrm f
+.\discretionary replacing 2
+..\tenrm t
+..\tenrm -
+.\tenrm t
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:393
+: Misplaced alignment tab character &.
+l.393 ...archWRListing-action.cfm?subclassid=7223&
+                                                  SearchType=LF&WRTypeID=2),...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:393
+: Misplaced alignment tab character &.
+l.393 ...action.cfm?subclassid=7223&SearchType=LF&
+                                                  WRTypeID=2), this [list](h...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (32.85725pt too wide) in paragraph at lines 393--394
+\tenrm List](http://linguistlist.org:8888/sp/SearchWRListing-action.cfm?subclas
+sid=7223SearchType=LFWRTypeID=2),|
+
+\hbox(7.5+2.5)x469.75499
+.\tenrm L
+.\tenrm i
+.\tenrm s
+.\tenrm t
+.\tenrm ]
+.etc.
+
+
+Overfull \hbox (6.5701pt too wide) in paragraph at lines 393--394
+\tenrm this [list](http://www.uow.edu.au/ dlee/software.htm), or this [list](ht
+tp://ucrel.lancs.ac.uk/tools.html). Bear|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm t
+.\tenrm h
+.\tenrm i
+.\tenrm s
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Overfull \hbox (48.4867pt too wide) in paragraph at lines 393--394
+\tenrm age. How-ever, even sim-ple con-cor-danc-ing tools, such as [AntConc](ht
+tp://www.laurenceanthony.net/software/antconc/)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm a
+.\tenrm g
+.\tenrm e
+.\tenrm .
+.\glue 4.44444 plus 4.99997 minus 0.37036
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:395
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.395 ...http://www.qsrinternational.com/products_
+                                                  nvivo.aspx),  [Atlas TI](h...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:396
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.396 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (13.82924pt too wide) in paragraph at lines 395--396
+[]\tenrm Some anal-y-sis tools such as [Van-tage-Point from Search Tech-nol-ogy
+ Inc.](https://www.thevantagepoint.com)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm S
+.\tenrm o
+.\tenrm m
+.\tenrm e
+.etc.
+
+
+Overfull \hbox (57.58463pt too wide) in paragraph at lines 395--396
+\tenrm [MAXQDA](http://www.maxqda.com), [NVivo](http://www.qsrinternational.com
+/products$[]\teni vivo:aspx\tenrm )\teni ; \tenrm [\teni AtlasTI\tenrm ](\teni 
+http \tenrm :|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm [
+.\tenrm M
+.\tenrm A
+.\tenrm X
+.\kern-0.27779
+.etc.
+
+
+Overfull \hbox (33.56725pt too wide) in paragraph at lines 395--396
+\teni software=\tenrm )\teni :However; withtheexceptionof\tenrm [\teni QDAMiner
+Lite\tenrm ](\teni http \tenrm : \teni ==provalisresearch:com=products=qualitat
+ive \tensy ^^@|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni s
+.\teni o
+.\teni f
+.\kern1.0764
+.\teni t
+.etc.
+
+
+Overfull \hbox (218.59357pt too wide) in paragraph at lines 395--396
+\teni data \tensy ^^@ \teni analysis \tensy ^^@ \teni software=freeware=\tenrm 
+)(\teni Windowsonly\tenrm )\teni ; whiletheyofferfreetrialstheydonotfallintothe
+categoryoffreeoropensourcesofwarethatisourfocus:$ |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni d
+.\teni a
+.\teni t
+.\teni a
+.\glue(\medmuskip) 2.22217 plus 1.11108 minus 2.22217
+.etc.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:397
+: You can't use `macro parameter character #' in vertical mode.
+l.397 #
+       #Round Up
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:397
+: You can't use `macro parameter character #' in vertical mode.
+l.397 ##
+        Round Up
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:403
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.403 ....wipo.int/patentscope/en/programs/patent_
+                                                  landscapes/reports/animal_...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:404
+: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.404 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (2906.77455pt too wide) in paragraph at lines 403--404
+\tenrm For ex-am-ple, the re-cent [WIPO Patent Land-scape for An-i-mal Ge-netic
+ Resources](http://www.wipo.int/patentscope/en/programs/patent$[]\teni andscape
+s=reports=animal[]r:html\tenrm )\teni involvedtheuseofGNUParallelandMapReducefo
+rlargescaletextminingof\tenrm 11\teni millionwholetextpatentsusingpatternmatchi
+nginRuby; combinedwiththeuseofPATSTATforstatistics; ThomsonInnovationandVantage
+Pointforvalidation; andTableauandGephiforvisualisation:Inshort; itispossibletop
+erformalmostallpatentanalysistasks; usingfreetools; butinpracticeamixedecosyste
+mofopensourceandcommercialtoolsmayproducethebestworkflowforthetasksyouperform:A
+ssuch; itisimportanttothinkaboutthetoolsthatareneededandwheretheysupportandstre
+ngthenexistinganalysisworkflows:$ |
+
+\hbox(7.5+2.86108)x469.75499, glue set - 1.0
+.\tenrm F
+.\kern-0.83334
+.\tenrm o
+.\tenrm r
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+[8]
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:422
+: You can't use `macro parameter character #' in vertical mode.
+l.422 #
+       ##Credits:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:422
+: You can't use `macro parameter character #' in vertical mode.
+l.422 ##
+        #Credits:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/pauloldham17inch/poldham.github.io/2015-07-26-overview-open-tools.md:422
+: You can't use `macro parameter character #' in vertical mode.
+l.422 ###
+         Credits:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+)
+! Emergency stop.
+<*> ...github.io/2015-07-26-overview-open-tools.md
+                                                  
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!

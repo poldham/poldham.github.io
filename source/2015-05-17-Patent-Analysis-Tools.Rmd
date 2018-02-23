@@ -1,0 +1,110 @@
+---
+title: "Open Source and Free Patent Analysis Tools"
+author: "Paul Oldham"
+date: "17 May 2015"
+layout: post
+published: true
+---
+
+This article provides a quick overview of open source and free software tools that can be used in patent analysis. The aim is to provide a quick visual overview to allow you to explore the tools for yourself. We will go into some of these tools in more detail in developing the WIPO Manual on Open Source Patent Analytics. 
+
+For ease of organisation we will structure the tools into categories following the structure of the Manual. 
+
+1. Obtaining Patent Data
+2. Cleaning and Tidying Patent Data
+3. Analysing Patent Data
+4. Visualising Patent Data
+5. Sharing Data
+
+If there is something important that you think might be missing from the list then please add a comment or send me an email. 
+
+###Obtaining Patent Data
+
+It goes without saying that getting access to patent data in the first place is fundamental to patent analysis. There are quite a few free services out there and we will highlights some of the important ones. Most free sources have particular strengths or weaknesses such as the number of records that can be downloaded, the data fields that can be queried, the format the data comes back in or how `clean` data is in terms of the hours required to prepare for analysis. We won't go into all of that but will present a succession of sources as a reference point. 
+**1. [espacenet](http://worldwide.espacenet.com/?locale=en_EP)**
+
+![_config.yml]({{ site.baseurl }} /images/tools/Espacenet.png)
+
+**2. [EPO Open Patent Services](http://www.epo.org/searching/free/ops.html)**
+
+![_config.yml]({{ site.baseurl }} /images/tools/OPS.png)
+
+The developer portal allows you to test your API queries and is recommended. 
+
+![_config.yml]({{ site.baseurl }}/images/tools/OPS_Developer_Portal.png)
+
+**3. [Patentscope](https://patentscope.wipo.int/search/en/search.jsf)**
+
+![_config.yml]({{ site.baseurl }}/images/tools/simplesearchresultspizza.png)
+
+Obtaining [sequence data from Patentscope](https://patentscope.wipo.int/search/en/sequences.jsf)
+
+![_config.yml]({{ site.baseurl }}/images/tools/pctseq.png)
+
+**4. [Google Patents](http://www.google.com/patents)**
+
+![_config.yml]({{ site.baseurl }}/Users/pauloldham17inch/poldham.github.io/images/tools/googlepatents_2015-0517_14-09-22.png)
+
+The [Google Patent Search API](https://developers.google.com/patent-search/terms) has been deprecated. Access through the Google Custom Search API with the API flag for patents [reported](http://stackoverflow.com/questions/15028166/python-module-for-searching-patent-databases-ie-uspto-or-epo) to be `&tbm=pts` with example code for using the API. 
+
+**5. [Patent Lens](https://www.lens.org/lens/)**
+
+![_config.yml]({{ site.baseurl }} /Users/pauloldham17inch/poldham.github.io/images/tools/Lens_2015-0517_14-19-26.png)
+
+**6. [Free Patents Online](http://www.freepatentsonline.com)**
+
+Sign up for enhanced access and to save and download data. It has been around quite a while now and we like it. 
+
+![_config.yml]({{ site.baseurl }} /images/tools/Freepatentsonline2015-03-26\ 16-26-13.png)
+
+**7. [DEPATISnet](http://www.dpma.de/english/service/e-services/depatisnet/)**
+
+The patent database of the German Patent and Trademark Office. It allows for searches in English and German and has extensive coverage of international patent data, including the China, EP, US and PCT collections. The coverage details are [here](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=datenbestand). Worth experimenting with. 
+
+![_config.yml]({{ site.baseurl }} /images/tools/DEPATISnet_13-53-19.png)
+
+**7. Patent2Net in Python**
+
+![_config.yml]({{ site.baseurl }} /images/tools/DEPATISnet_13-53-19.png)
+
+**. Python EPO OPS Client by Gsong**
+
+![_config.yml]({{ site.baseurl }})
+
+**[Fung Institute Patent Server](https://github.com/funginstitute/patentserver) for USPTO data in JSON**
+
+![_config.yml]({{ site.baseurl }})
+
+
+
+
+
+![_config.yml]({{ site.baseurl }})
+
+![_config.yml]({{ site.baseurl }})
+![_config.yml]({{ site.baseurl }})
+![_config.yml]({{ site.baseurl }})
+![_config.yml]({{ site.baseurl }})
+![_config.yml]({{ site.baseurl }})
+![_config.yml]({{ site.baseurl }})
+![_config.yml]({{ site.baseurl }}/images/datafields/synthetic_genomes_nature_news.png)
+
+**[Fung Institute Patent View](https://github.com/funginstitute/patentview)**
+
+![_config.yml]({{ site.baseurl }})
+
+**[Fung Institute Python Patent Processor USPTO Google Bulk Data](https://github.com/funginstitute/patentprocessor)
+
+![_config.yml]({{ site.baseurl }})
+
+
+###Synthetic Genomes: [Nature News](http://www.nature.com/nature/journal/v473/n7347/full/473403a.html)
+
+
+###Learn More
+
+- Visit the [Github project page](http://poldham.github.io/)
+- Access materials in the repository directly and add your own [here](https://github.com/poldham/opensource-patent-analytics)
+
+Paul Oldham
+Updated: 17/05/2015

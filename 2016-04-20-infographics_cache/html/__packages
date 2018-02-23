@@ -1,0 +1,6 @@
+base
+readr
+dplyr
+tidyr
+stringr
+ggplot2

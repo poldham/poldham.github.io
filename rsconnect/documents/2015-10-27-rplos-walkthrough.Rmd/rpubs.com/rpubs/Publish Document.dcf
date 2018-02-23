@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/122942/7f2b08f70402497fb2e2914a156a9391
+url: http://rpubs.com/poldham/122942
+when: 1446322646.65474
