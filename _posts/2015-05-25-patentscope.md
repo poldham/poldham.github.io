@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Obtaining Patent Data: Patentscope"
+redirect_to:
+  - https://www.pauloldham.net/patentscope/
 author: "Paul Oldham"
 date: "25 May 2015"
 published: true

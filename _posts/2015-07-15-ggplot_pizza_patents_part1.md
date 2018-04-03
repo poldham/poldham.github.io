@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Introducing R and Graphing Pizza Patents: part 1"
+redirect_to:
+  - https://www.pauloldham.net/wrangling-pizza-patents-in-r/
 author: "Paul Oldham"
 date: "25 June 2015"
 published: true

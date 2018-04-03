@@ -1,5 +1,7 @@
 ---
 title: "Cleaning Patent Data with Open Refine"
+redirect_to:
+  - https://www.pauloldham.net/openrefine-patent-cleaning/
 author: "Paul Oldham"
 date: "1 June 2015"
 layout: post

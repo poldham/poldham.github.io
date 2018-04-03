@@ -1,10 +1,13 @@
 ---
 title: "Accessing the Public Library of Science (PLOS) in R using rplos"
 author: "Paul Oldham"
+redirect_to:
+  - https://www.pauloldham.net/plos-walkthrough/
 date: "18 September 2015"
 layout: post
 published: true
 ---
+
 In this article we look at the use of the [`rplos`](https://github.com/ropensci/rplos) package from [rOpenSci](https://ropensci.org) to access the scientific literature from the [Public Library of Science](https://www.plos.org) using the [PLOS Search API](http://api.plos.org/solr/faq/). This article is part of work in progress on the WIPO Manual on Open Source Patent Analytics and focuses on how to retrieve scientific literature using R in RStudio. 
 
 The Public Library of Science (PLOS) is the main champion of open access peer reviewed scientific publications and has published somewhere in the region of 140,000 articles. These articles are a fantastic resource. PLOS includes the following titles. 

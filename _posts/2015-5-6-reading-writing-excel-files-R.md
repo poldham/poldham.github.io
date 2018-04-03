@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Reading and Writing an Excel File in R"
+redirect_to:
+  - https://www.pauloldham.net/reading-writing-excel-files-r/
 author: "Paul Oldham"
 date: "30 April 2015"
 published: true

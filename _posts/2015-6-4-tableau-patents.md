@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Visualising Patent Data in Tableau Public"
+redirect_to:
+  - https://www.pauloldham.net/tableau-patents/
 author: "Paul Oldham"
 date: "3 June 2015"
 published: true

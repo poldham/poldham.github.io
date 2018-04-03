@@ -1,5 +1,7 @@
 ---
 title: "Obtaining Patent Data: Patent Databases"
+redirect_to:
+  - https://www.pauloldham.net/patent-databases/
 author: "Paul Oldham"
 date: "17 May 2015"
 layout: post

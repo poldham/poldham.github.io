@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Patent Network Visualisation with Gephi"
+redirect_to:
+ - https://www.pauloldham.net/gephi_patent_network
 author: "Paul Oldham"
 date: "29 July 2015"
 published: true

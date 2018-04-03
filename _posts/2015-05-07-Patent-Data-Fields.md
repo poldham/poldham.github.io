@@ -1,5 +1,7 @@
 ---
 title: "Understanding Patent Documents and Data Fields"
+redirect_to:
+  - https://www.pauloldham.net/patent-data-fields/
 author: "Paul Oldham"
 date: "23 March 2015"
 output: pdf_document

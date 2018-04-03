@@ -1,5 +1,7 @@
 ---
 title: "Introducing R and Graphing Patent Data with ggplot2: Part 2"
+redirect_to:
+  - https://www.pauloldham.net/graphing-patent-data-with-ggplot2-part2/
 author: "Paul Oldham"
 date: "17 July 2015"
 output: html_document

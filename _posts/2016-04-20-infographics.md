@@ -1,5 +1,7 @@
 ---
 title: "Creating an Infographic with Patent Data in R"
+redirect_to:
+  - https://www.pauloldham.net/infographics/
 author: "Paul Oldham"
 date: "5th February 2016"
 output: html_document

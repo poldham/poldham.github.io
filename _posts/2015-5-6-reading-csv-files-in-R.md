@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Importing CSV files into R"
+redirect_to:
+  - https://www.pauloldham.net/importing-csv-files-into-r/
 author: "Paul Oldham"
 date: "29 April 2015"
 published: true

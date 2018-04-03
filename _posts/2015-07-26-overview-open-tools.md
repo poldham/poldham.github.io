@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "An Overview of Open Source Tools for Patent Analytics"
+redirect_to:
+  - https://www.pauloldham.net/overview-open-tools
 author: "Paul Oldham"
 date: "26 July 2015"
 published: true

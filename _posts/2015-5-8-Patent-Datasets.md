@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Patent Analytics Training Datasets"
+redirect_to:
+  - https://www.pauloldham.net/patent-datasets/
 author: "Paul Oldham"
 date: "8 May 2015"
 published: true
